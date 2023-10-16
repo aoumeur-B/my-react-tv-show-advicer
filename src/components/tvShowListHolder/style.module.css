@@ -1,0 +1,19 @@
+.title{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 250px;
+}
+.items_list:hover{
+    overflow-x: scroll;
+}
+
+.items_list{
+    border: 1px solid white;
+    display: flex;
+    overflow-x: hidden;
+    border-radius: 5px;
+}
+
+.item{
+    margin-right: 5px;;
+}
